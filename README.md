@@ -1,5 +1,5 @@
 
-# Fashion Store - Modern E-Commerce Website
+# EgyptStore - Modern E-Commerce Website
 
 A modern, responsive fashion e-commerce website featuring a comprehensive shopping experience with user authentication, shopping cart functionality, and product management. Built with HTML, CSS, and JavaScript with a backend API integration.
 
